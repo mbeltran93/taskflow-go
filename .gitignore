@@ -1,0 +1,8 @@
+/bin/
+/taskflow-go
+*.exe
+*.test
+*.out
+.env
+.idea/
+.vscode/
