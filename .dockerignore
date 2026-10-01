@@ -1,0 +1,6 @@
+.git/
+.github/
+test/
+*.md
+postman_collection.json
+docker-compose.yml
